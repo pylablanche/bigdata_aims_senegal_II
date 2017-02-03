@@ -1,6 +1,10 @@
 Author : Pierre-Yves Lablanche
 email : plablanche@aims.ac.za
 
+=== Announcement ===
+I am currently working (on my spare time) on a newer version for this series of lecture including more algorithms, better explanation, updated content and clearer notebooks.
+Once the new version complete, the old version will be deleted.
+
 !!! VERY IMPORTANT !!!
 This is the first serie of lecture I gave on Machine Learning and it is not perfect.
 Feel free to comment and criticize such that I can improve it!
